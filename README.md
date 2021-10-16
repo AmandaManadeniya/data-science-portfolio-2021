@@ -6,6 +6,7 @@
 * [PORTFOLIO 1](#PORTFOLIO-1)
 * [PORTFOLIO 2](#PORTFOLIO-2)
 * [PORTFOLIO 3](#PORTFOLIO-3)
+* [CONCLUSION](#CONCLUSION)
 
 ## INTRODUCTION
 This repository contains the files for the Portfolio task for COMP2200/6200 in S2 2021. 
@@ -41,3 +42,4 @@ Models used in this task include:
 * K nearest neighbours 
 
 ## CONCLUSION 
+These portfolio tasks enhanced data exploration and modelling skills. There is now an understanding of how cleanse and explore data so that it is informative to the viewer. From here, it is possible to build predictive models and test their accuracy in order to evaluate it. 
